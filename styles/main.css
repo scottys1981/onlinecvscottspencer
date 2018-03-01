@@ -1,0 +1,135 @@
+.intro {
+	color: white;
+	font-family: arial;
+	font-size: 2vw;
+	text-align: center;
+	margin: 2%;
+	padding: 0;
+}
+
+.about {
+	background: white;
+	margin: 8% 0 0 0;
+	padding: 8% 20% 0 20%;
+	color: black;
+	font-size: 280%;
+	font-family: lobster;
+	text-align: center;
+}
+
+p.aboutpara {
+	font-size: 2vw;
+	padding: 1% 10% 10% 10%;
+	margin: 0 0 30% 0;
+}
+
+p.paragraph {
+	color: black;
+	text-align: center;
+	font-size: 2vw;
+	font-family: arial;
+	margin: 0;
+	padding: 1% 20% 10% 20%;
+}
+
+.aboutpara {
+	background: white;
+	margin: 0;
+	padding: 0;
+	color: black;
+	font-size: 280%;
+	font-family: arial;
+	text-align: center;
+}
+
+.images {
+	background: white;
+	color: black;
+	text-align: center;
+	font-size: 1vw;
+	font-family: lobster;
+	margin: 20% 0;
+	padding: 1% 20% 10% 20%;
+}
+
+.button {
+	background: #888;
+	width: 10%;
+}
+
+body {
+	background-image: url("sunsetandcampfire.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	color: white;
+	font-family: lobster;
+	text-align: center;
+	font-size: 4vw;
+	margin: 5% 0 0 0;
+}
+
+h2 {
+	color: black;
+	background: white;
+	text-align: center;
+	font-family: lobster;
+	padding: 0 0;
+	margin: 0;
+}
+
+h3.intro {
+	color: white;
+	text-align: center;
+	font-family: arial;
+	font-size: 1.5vw;
+	padding: 0 5%;
+	margin: 0 20%;
+}
+
+img.intro {
+	border-radius: 50%;
+	width: 12%;
+	margin: 1%;
+}
+
+img.linkedin {
+	width: 3%;
+	margin: 1% 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+img.insta {
+	width: 4%;
+	margin: 0.5% 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+img.fb {
+	width: 4%;
+	margin: 0.5% 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+img.random {
+	background: white;
+	width: 20%;
+	padding: 2%;
+}
+
+footer {
+	width: 100%;
+	font-family: arial;
+	font-size: 1vw;
+	background: white;
+	text-align: center;
+}
